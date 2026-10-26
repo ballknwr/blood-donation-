@@ -1,7 +1,12 @@
 # RakhtConnect
 
 A mobile-friendly Indian blood-donation coordination prototype. Built from an empty repository with Python, Flask, SQLite, HTML, CSS and JavaScript. It connects requesters to willing volunteers; it is **not an emergency dispatch service, a verified national blood-bank directory, or a clinical eligibility system**.
-
+Text stack 
+Frontend.                   	HTML, CSS and JavaScript
+Backend.                    	Python with Flask
+Database.                   	SQLite
+WhatsApp integration.       	Meta WhatsApp Cloud API, currently in dry-run mode
+Version control	              Git and GitHub
 ## Start in five minutes
 
 Requires Python 3.12 or newer. No Node build step or paid service is needed.
